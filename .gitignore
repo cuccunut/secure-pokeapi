@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Data & runtime files
+data/
+*.log
+
+# macOS
+.DS_Store
+
+# Tests & personal files
+tests.sh
+lab3-en.pdf
+REPORT.docx
